@@ -1,0 +1,19 @@
+{
+  "name": "market",
+  "version": "1.0.0",
+  "description": "1.Installed Tools\r 2.Create React App\r 3.Create Git Repsitory\r 4.List Products\r +++1.Create products Array\r +++2.Add Product Images\r +++3.Render Products\r +++4.Style Products\r 5.Add routing\r +++1.npm i react-router-dom\r +++2.create route for home screen\r +++3.create router fro product screen\r 6.Create Node.JS Server\r +++1.run npm init in root folder\r +++2.Update package.json set type: module\r +++3.Add .js to imports\r +++4.npm install express\r +++5.create server.js\r +++6.add start command as node backend/server.js\r +++7.require express\r +++8.create route for / return backend is ready\r +++9.move product.js from frontend to backend\r +++10.create route for /api/products\r +++11.return products\r +++12.run npm start\r 7.Fetch Products from Backend\r +++1.set proxy in package.json\r +++2.npm install axios\r +++3.use state hook\r +++4.use effect hook\r +++5.use reducer hook\r 8.Manage State By Reducer Hook\r +++1.define reducer\r +++2.update fetch data\r +++3.get state from usReducer\r 9.Add Bootstrap UI Framework\r +++1.npm install react-bootstrap bootstrap\r +++2.update App.js\r 10.Create Product and Rating Component\r +++1. create Rating component\r +++2. Create Product component\r +++3. Use Rating component in Product component\r 11.Create Product Details Screen\r +++1. fetch product from backend\r +++2. create 3 columns for image, info and action\r 12.Create Loading and Message Component\r +++1. create loading component\r +++2. use spinner component\r +++3. craete message component\r +++4. create utils.js to define getError fuction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moneeshkraja93/market.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moneeshkraja93/market/issues"
+  },
+  "homepage": "https://github.com/moneeshkraja93/market#readme"
+}

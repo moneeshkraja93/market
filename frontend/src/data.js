@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      //_id: '1',
       name: 'Loose Sugar',
       slug: 'sugar-loose',
       category: 'Sugar',
@@ -13,6 +14,7 @@ const data = {
       description: 'high quality sugar product',
     },
     {
+      //_id: '2',
       name: 'Sugar',
       slug: 'sugar',
       category: 'Sugar',
@@ -25,6 +27,7 @@ const data = {
       description: 'high quality sugar',
     },
     {
+      //_id: '3',
       name: "Parry's Sugar",
       slug: 'sugar-parry',
       category: 'Sugar',
@@ -37,14 +40,15 @@ const data = {
       description: 'quality sugar',
     },
     {
-      name: 'DD Sugar',
-      slug: 'sugar-dd',
-      category: 'Sugar',
+      //_id: '4',
+      name: 'Sambar Masala',
+      slug: 'spices-dd',
+      category: 'Spices',
       image: '/images/p4.jpg',
       price: 41,
       countInStock: 20,
       brand: 'DD',
-      rating: 4.5,
+      rating: 3,
       numReviews: 10,
       description: 'high quality',
     },
