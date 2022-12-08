@@ -18,7 +18,7 @@ const data = {
       category: 'Sugar',
       image: '/images/p2.jpg',
       price: 39,
-      countInStock: 20,
+      countInStock: 0,
       brand: 'MR.K',
       rating: 4.3,
       numReviews: 10,
